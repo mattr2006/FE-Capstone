@@ -1,0 +1,8 @@
+.navbar-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  color: white;
+  background-color: black;
+  box-shadow: 2px 3px 3px 0px;
+}
